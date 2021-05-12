@@ -1,0 +1,178 @@
+{
+  "nodes": [
+    {"id": 1,"label": "Data & Information", "group": 1, "size": 0.29 },
+    {"id": 2,"label": "Companies", "group": 1, "size": 1.31 },
+    {"id": 3,"label": "Users", "group": 1, "size": 0.47 },
+    {"id": 4,"label": "Data collection, handling and/or storage", "group": 2, "size": 0.67 },
+    {"id": 5,"label": "Privacy & security terms", "group": 2, "size": 0.33 },
+    {"id": 6,"label": "Security mechanisms", "group": 2, "size": 0.11 },
+    {"id": 7,"label": "Privacy & security risks", "group": 2, "size": 0.39 },
+    {"id": 10,"label": "Synonymous", "group": 3, "size": 1.89 },
+    {"id": 11,"label": "Attribute or characteristic", "group": 3, "size": 0.93 },
+    {"id": 12,"label": "Action", "group": 3, "size": 1.68 },
+    {"id": 13,"label": "Third party", "group": 3, "size": 1.27 },
+    {"id": 14,"label": "Reaction or attitude", "group": 3, "size": 0.75 },
+    {"id": 15,"label": "Undetermined", "group": 3, "size": 1.99 },
+
+    {"id": 16,"label": "Company", "group": 5, "size": 1 },
+
+    {"id": 17, "label": "data", "group": 6, "size": 1},
+    {"id": 18, "label": "information", "group": 6, "size": 1},
+    {"id": 19, "label": "data", "class":"cursive", "group": 6, "size": 1},
+
+    {"id": 20, "label": "facebook", "group": 6, "size": 1},
+    {"id": 21, "label": "fb", "group": 6, "size": 1},
+    {"id": 22, "label": "ca", "group": 6, "size": 1},
+    {"id": 23, "label": "advertisers", "group": 6, "size": 1},
+    {"id": 24, "label": "scl", "group": 6, "size": 1},
+
+    {"id": 25, "label": "user", "group": 6, "size": 1},
+    {"id": 26, "label": "users", "group": 6, "size": 1},
+    {"id": 27, "label": "clients", "class":"cursive", "group": 6, "size": 1},
+    {"id": 28, "label": "customers", "group": 6, "size": 1},
+    {"id": 29, "label": "client", "group": 6, "size": 1},
+
+    {"id": 30, "label": "platform", "group": 6, "size": 1},
+    {"id": 31, "label": "recover", "class":"cursive", "group": 6, "size": 1},
+    {"id": 32, "label": "site", "group": 6, "size": 1},
+    {"id": 33, "label": "app", "group": 6, "size": 1},
+    {"id": 34, "label": "website", "group": 6, "size": 1},
+
+    {"id": 35, "label": "personal", "group": 6, "size": 1},
+    {"id": 36, "label": "safe", "class":"cursive", "group": 6, "size": 1},
+    {"id": 37, "label": "privacy", "group": 6, "size": 1},
+    {"id": 38, "label": "identify", "class":"cursive", "group": 6, "size": 1},
+
+    {"id": 39, "label": "password", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 40, "label": "drp", "group": 6, "size": "1"},
+
+    {"id": 41, "label": "mistakes", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 42, "label": "breach", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 43, "label": "theft", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 44, "label": "illegally", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 45, "label": "stolen", "class":"cursive", "group": 6, "size": "1"},
+
+    {"id": 46, "label": "companies", "group": 6, "size": "1"},
+    {"id": 47, "label": "firm", "group": 6, "size": "1"},
+    {"id": 48, "label": "companys", "group": 6, "size": "1"},
+    {"id": 49, "label": "firms", "group": 6, "size": "1"},
+    {"id": 50, "label": "company", "class":"cursive", "group": 6, "size": "1"},
+
+    {"id": 51, "label": "giant", "group": 6, "size": "1"},
+    {"id": 52, "label": "britanica", "group": 6, "size": "1"},
+    {"id": 53, "label": "potential", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 54, "label": "russian", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 55, "label": "specialized", "class":"cursive", "group": 6, "size": "1"},
+
+    {"id": 56, "label": "ascertain", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 57, "label": "count", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 58, "label": "move", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 59, "label": "treat", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 60, "label": "discover", "class":"cursive", "group": 6, "size": "1"},
+
+    {"id": 61, "label": "organization", "group": 6, "size": "1"},
+    {"id": 62, "label": "entity", "group": 6, "size": "1"},
+    {"id": 63, "label": "rrhh", "group": 6, "size": "1"},
+    {"id": 64, "label": "consultant", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 65, "label": "organization", "class":"cursive", "group": 6, "size": "1"},
+
+    {"id": 66, "label": "needs", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 67, "label": "resolution", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 68, "label": "investigation", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 69, "label": "clashes", "group": 6, "size": "1"},
+    {"id": 70, "label": "interference", "class":"cursive", "group": 6, "size": "1"},
+
+    {"id": 71, "label": "aspects", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 72, "label": "know", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 73, "label": "advantages", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 74, "label": "note", "class":"cursive", "group": 6, "size": "1"},
+    {"id": 75, "label": "employability", "class":"cursive", "group": 6, "size": "1"}
+  ],
+  "links": [
+    {"source": 16, "target": 1, "distance": 6, "value": 1},
+    {"source": 16, "target": 2, "distance": 32, "value": 1},
+    {"source": 16, "target": 3, "distance": 11, "value": 1},
+    {"source": 16, "target": 4, "distance": 15, "value": 1},
+    {"source": 16, "target": 5, "distance": 7, "value": 1},
+    {"source": 16, "target": 6, "distance": 2, "value": 1},
+    {"source": 16, "target": 7, "distance": 10, "value": 1},
+    {"source": 16, "target": 10, "distance": 36, "value": 1},
+    {"source": 16, "target": 11, "distance": 25, "value": 1},
+    {"source": 16, "target": 12, "distance": 40, "value": 1},
+    {"source": 16, "target": 13, "distance": 28, "value": 1},
+    {"source": 16, "target": 14, "distance": 20, "value": 1},
+    {"source": 16, "target": 15, "distance": 48, "value": 1},
+
+    {"source": 1, "target": 17, "distance": 40, "value": 1},
+    {"source": 1, "target": 18, "distance": 40, "value": 1}, 
+    {"source": 1, "target": 19, "distance": 40, "value": 1},
+
+    {"source": 2, "target": 20, "distance": 40, "value": 1},
+    {"source": 2, "target": 21, "distance": 40, "value": 1}, 
+    {"source": 2, "target": 22, "distance": 40, "value": 1}, 
+    {"source": 2, "target": 23, "distance": 40, "value": 1}, 
+    {"source": 2, "target": 24, "distance": 40, "value": 1},
+
+    {"source": 3, "target": 25, "distance": 40, "value": 1},
+    {"source": 3, "target": 26, "distance": 40, "value": 1}, 
+    {"source": 3, "target": 27, "distance": 40, "value": 1}, 
+    {"source": 3, "target": 28, "distance": 40, "value": 1}, 
+    {"source": 3, "target": 29, "distance": 40, "value": 1}, 
+
+    {"source": 4, "target": 30, "distance": 40, "value": 1},
+    {"source": 4, "target": 31, "distance": 40, "value": 1}, 
+    {"source": 4, "target": 32, "distance": 40, "value": 1}, 
+    {"source": 4, "target": 33, "distance": 40, "value": 1}, 
+    {"source": 4, "target": 34, "distance": 40, "value": 1},
+
+    {"source": 5, "target": 35, "distance": 40, "value": 1},
+    {"source": 5, "target": 36, "distance": 40, "value": 1}, 
+    {"source": 5, "target": 37, "distance": 40, "value": 1}, 
+    {"source": 5, "target": 38, "distance": 40, "value": 1},
+
+    {"source": 6, "target": 39, "distance": 40, "value": 1},
+    {"source": 6, "target": 40, "distance": 40, "value": 1}, 
+
+    {"source": 7, "target": 41, "distance": 40, "value": 1},
+    {"source": 7, "target": 42, "distance": 40, "value": 1}, 
+    {"source": 7, "target": 43, "distance": 40, "value": 1}, 
+    {"source": 7, "target": 44, "distance": 40, "value": 1}, 
+    {"source": 7, "target": 45, "distance": 40, "value": 1}, 
+
+    {"source": 10, "target": 46, "distance": 40, "value": 1}, 
+    {"source": 10, "target": 47, "distance": 40, "value": 1}, 
+    {"source": 10, "target": 48, "distance": 40, "value": 1}, 
+    {"source": 10, "target": 49, "distance": 40, "value": 1}, 
+    {"source": 10, "target": 50, "distance": 40, "value": 1}, 
+
+    {"source": 11, "target": 51, "distance": 40, "value": 1}, 
+    {"source": 11, "target": 52, "distance": 40, "value": 1}, 
+    {"source": 11, "target": 53, "distance": 40, "value": 1}, 
+    {"source": 11, "target": 54, "distance": 40, "value": 1}, 
+    {"source": 11, "target": 55, "distance": 40, "value": 1}, 
+
+    {"source": 12, "target": 56, "distance": 40, "value": 1}, 
+    {"source": 12, "target": 57, "distance": 40, "value": 1}, 
+    {"source": 12, "target": 58, "distance": 40, "value": 1}, 
+    {"source": 12, "target": 59, "distance": 40, "value": 1}, 
+    {"source": 12, "target": 60, "distance": 40, "value": 1}, 
+
+    {"source": 13, "target": 61, "distance": 40, "value": 1}, 
+    {"source": 13, "target": 62, "distance": 40, "value": 1}, 
+    {"source": 13, "target": 63, "distance": 40, "value": 1}, 
+    {"source": 13, "target": 64, "distance": 40, "value": 1}, 
+    {"source": 13, "target": 65, "distance": 40, "value": 1}, 
+
+    {"source": 14, "target": 66, "distance": 40, "value": 1}, 
+    {"source": 14, "target": 67, "distance": 40, "value": 1}, 
+    {"source": 14, "target": 68, "distance": 40, "value": 1}, 
+    {"source": 14, "target": 69, "distance": 40, "value": 1}, 
+    {"source": 14, "target": 70, "distance": 40, "value": 1}, 
+
+    {"source": 15, "target": 71, "distance": 40, "value": 1}, 
+    {"source": 15, "target": 72, "distance": 40, "value": 1}, 
+    {"source": 15, "target": 73, "distance": 40, "value": 1}, 
+    {"source": 15, "target": 74, "distance": 40, "value": 1}, 
+    {"source": 15, "target": 75, "distance": 40, "value": 1}
+    ]
+}
