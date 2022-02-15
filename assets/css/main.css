@@ -1,6 +1,7 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,500,600,700,300i,600i,700i|Raleway:300,400,500,600,800");
 @import url("https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 /*
 	Paradigm Shift by HTML5 UP
@@ -177,7 +178,7 @@ input, select, textarea {
 		-ms-transition: border-bottom-color 0.25s ease-in-out;
 		transition: border-bottom-color 0.25s ease-in-out;
 		text-decoration: none;
-		color: #652444;
+		color: #513845;
 		border-bottom: dotted 1px;
 	}
 
@@ -200,7 +201,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #652444;
+		color: #56454E;
 		font-family: "Encode Sans", sans-serif;
 		font-weight: 600;
 		letter-spacing: 0.175em;
@@ -215,10 +216,10 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-family: "Encode Sans", sans-serif;
+		font-family: "Fira Sans", sans-serif;
 		font-size: 5rem;
-		font-weight: 700;
-		letter-spacing: -0.05em;
+		font-weight: 400;
+		letter-spacing: -0.03em;
 		line-height: 1.1;
 		margin: 0 0 1.5rem 0;
 		text-transform: none;
@@ -2834,7 +2835,7 @@ input, select, textarea {
 		}
 
 		a.arrow:before {
-			background-image: url("data:image/svg+xml;charset=utf8,<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='0 0 512 512'><path d='M442.53,346.28L293.65,495.16c-0.33,0.33-0.7,0.62-1.05,0.94c-9.16,9.77-22.15,15.9-36.6,15.9 c-14.44,0-27.43-6.13-36.59-15.88c-0.35-0.33-0.72-0.62-1.06-0.96L69.47,346.28c-19.62-19.62-19.62-51.44,0-71.05 c19.62-19.62,51.43-19.62,71.06,0l65.23,65.23V50.24C205.76,22.5,228.25,0,256,0s50.24,22.5,50.24,50.24v290.21l65.23-65.23 c19.62-19.62,51.43-19.62,71.05,0C462.15,294.84,462.15,326.66,442.53,346.28z' fill='%23652444' /></svg>");
+			background-image: url("data:image/svg+xml;charset=utf8,<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='0 0 512 512'><path d='M442.53,346.28L293.65,495.16c-0.33,0.33-0.7,0.62-1.05,0.94c-9.16,9.77-22.15,15.9-36.6,15.9 c-14.44,0-27.43-6.13-36.59-15.88c-0.35-0.33-0.72-0.62-1.06-0.96L69.47,346.28c-19.62-19.62-19.62-51.44,0-71.05 c19.62-19.62,51.43-19.62,71.06,0l65.23,65.23V50.24C205.76,22.5,228.25,0,256,0s50.24,22.5,50.24,50.24v290.21l65.23-65.23 c19.62-19.62,51.43-19.62,71.05,0C462.15,294.84,462.15,326.66,442.53,346.28z' fill='%2356454E' /></svg>");
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: contain;
@@ -3245,7 +3246,7 @@ input, select, textarea {
 				}
 
 				#wrapper section > header h1 + p {
-					font-family: "Encode Sans", sans-serif;
+					font-family: "Raleway", monospace;
 					font-size: 0.8rem;
 					letter-spacing: 0.175em;
 					line-height: 2.5;
