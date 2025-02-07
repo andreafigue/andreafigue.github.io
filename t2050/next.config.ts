@@ -11,8 +11,6 @@ const nextConfig: NextConfig = {
   output: 'export'
 };
 
-module.exports = {
-  swcMinify: true,
-};
+module.exports = nextConfig;
 
 export default nextConfig;
