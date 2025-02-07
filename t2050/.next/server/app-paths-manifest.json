@@ -1,0 +1,6 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/route-visualization/page": "app/route-visualization/page.js",
+  "/choropleth/page": "app/choropleth/page.js"
+}

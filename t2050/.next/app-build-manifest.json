@@ -1,0 +1,37 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-7bef3d50c5b75702.js",
+      "static/chunks/4bd1b696-1aaacd546f10f1e9.js",
+      "static/chunks/517-9b2bcc9827cb3201.js",
+      "static/chunks/main-app-6143e2e0fc814532.js",
+      "static/chunks/app/_not-found/page-d3f3189736ed81f1.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-7bef3d50c5b75702.js",
+      "static/chunks/4bd1b696-1aaacd546f10f1e9.js",
+      "static/chunks/517-9b2bcc9827cb3201.js",
+      "static/chunks/main-app-6143e2e0fc814532.js",
+      "static/css/2f3f0603434b24eb.css",
+      "static/css/8342e51e453e2131.css",
+      "static/chunks/app/layout-cf65e350f63c928c.js"
+    ],
+    "/route-visualization/page": [
+      "static/chunks/webpack-7bef3d50c5b75702.js",
+      "static/chunks/4bd1b696-1aaacd546f10f1e9.js",
+      "static/chunks/517-9b2bcc9827cb3201.js",
+      "static/chunks/main-app-6143e2e0fc814532.js",
+      "static/chunks/app/route-visualization/page-e423a4975d9a640e.js"
+    ],
+    "/choropleth/page": [
+      "static/chunks/webpack-7bef3d50c5b75702.js",
+      "static/chunks/4bd1b696-1aaacd546f10f1e9.js",
+      "static/chunks/517-9b2bcc9827cb3201.js",
+      "static/chunks/main-app-6143e2e0fc814532.js",
+      "static/css/8342e51e453e2131.css",
+      "static/chunks/c36f3faa-99db96a194b09a20.js",
+      "static/chunks/623-14474eb5d3753127.js",
+      "static/chunks/app/choropleth/page-8fb4f2c03f7eedb1.js"
+    ]
+  }
+}
